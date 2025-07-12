@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Nome: João Victor<br><br>- Idade: 20 anos<br><br>- Área de estudo: Ciências da Computação<br><br>- Sonho profissional: Trabalhar como desenvolvedor<br><br>- Estudo adicional: Inglês e curso de back e front end<br><br>- Trabalho atual: Atuo na parte de compras da Duzani</p>
+<p align="left">- Nome: João Victor<br><br>- Idade: 20 anos<br><br>- Área de estudo: Ciências da Computação<br><br>- Sonho profissional: Trabalhar como desenvolvedor<br><br>- Estudo adicional: Inglês e curso de back e front end<br><br>- Trabalho atual: Atuo na parte de programaçãona empresa Global Software</p>
 
 ###
 
